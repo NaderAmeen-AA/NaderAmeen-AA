@@ -2,9 +2,11 @@
 #### I am GitHub Readme Generator's creator
 ![I am GitHub Readme Generator's creator](https://scontent-fra3-2.xx.fbcdn.net/v/t39.30808-6/335121897_1365609957587866_4702675795938327755_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=SvQ-fUg04jQQ7kNvgEmayj3&_nc_ht=scontent-fra3-2.xx&oh=00_AYDzE6lmXqjtARXThrOQ8u2XMdItFx1Hx4Mb8eUtkvEsXg&oe=6695B736)
 
-I am BugHunter and programming and designer
+
+EDUCATION SEIYUN UNIVERSITY Bachelor of Information Security June 2024 I studied Cyber security, 
 
 Skills: 
+* design
 * python
 * Linux 
 * JS 
